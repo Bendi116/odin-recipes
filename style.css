@@ -1,0 +1,42 @@
+*{
+    background-color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center;
+    
+    color: rgb(72, 150, 124);
+    font-weight: 200;
+    text-align: justify;
+
+}
+h1{
+    color:darkblue;
+    font-weight: bold;
+    
+}
+h2{
+    font-weight: 300;
+    color: rgb(54, 75, 192);
+}
+h1, h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.recipes{
+    color: aqua;
+    font-weight: 300;
+    padding-left: 30px;
+
+}
+
+    
+img{
+    
+    display: block;
+    margin-right: auto;
+    width: 50%;
+    width: 176px;
+    height: auto;
+}
+ol{
+    list-style-type: upper-roman;
+}
